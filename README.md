@@ -18,4 +18,4 @@ echo extension_loaded('pdo_mysql'); // Check if MySQL driver is loaded
 ```
 
 
-For more undertanding, [read!](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP.rds.html) the full documentation on Amazon Web Services.
+For more undertanding, [read](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP.rds.html) the full documentation on Amazon Web Services.
