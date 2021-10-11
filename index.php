@@ -6,11 +6,7 @@ $dbname = ' '; // <Enter your Database name here>
 $charset = ' ' ; // <Enter your Character Set here> The Default is 'utf8'.
 
 /*
-.
-.
 The information above can be found under the Connectivity & Security, and Configuration tabs in your Amazon RDS Database.
-.
-.
 */
 
 try {
@@ -26,11 +22,7 @@ try {
 }
 
 /*
-.
-.
 Use the Try Catch error handling technique to produce an output that is consistent with the state of connection. Though an IF ELSE statement is viable, it doesn't allow us output the error statement associated with the connection should the connection fail. 
-.
-.
 */
 
 ?>
