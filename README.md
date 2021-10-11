@@ -1,6 +1,6 @@
 # Connecting to Amazon RDS Using PHP
 
-The index.php file contains code to connect to Amazon RDS in the Cloud. i struggled finding the syntax and throught I'd share the code for future use cases. 
+The index.php file contains code to connect to Amazon RDS in the Cloud. I struggled finding the syntax and thought I'd share the code for future use cases. 
 
 
 ## Requirements
